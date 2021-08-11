@@ -18,6 +18,13 @@
         <li><a href="#contact">Contact</a></li>
     </ol>
 </details>
+
+## file them module giai nen va them vao tiktok douyin va nhac
+https://drive.google.com/file/d/1X58umHmiFvaX5cjs9gV_DZq7Z0IcIVIf/view?usp=sharing
+
+
+
+
 ## Installation
 
 Sau đây là các bước cơ bản để có thể cài đặt và vận hành.
